@@ -1,0 +1,8 @@
+{
+  "logistica": {"C": 1.0, "max_iter": 2000},
+  "hist_gradient_boosting": {"max_iter": 150, "max_leaf_nodes": 15, "learning_rate": 0.05, "l2_regularization": 10, "early_stopping": false},
+  "catboost": {"iterations": 300, "depth": 5, "learning_rate": 0.05, "l2_leaf_reg": 10, "loss_function": "Logloss", "verbose": false, "allow_writing_files": false},
+  "xgboost": {"n_estimators": 300, "max_depth": 4, "learning_rate": 0.05, "min_child_weight": 10, "reg_lambda": 10, "subsample": 1.0, "colsample_bytree": 1.0, "tree_method": "hist", "objective": "binary:logistic", "eval_metric": "auc"},
+  "lightgbm": {"n_estimators": 300, "num_leaves": 15, "learning_rate": 0.05, "min_child_samples": 50, "reg_lambda": 10, "verbosity": -1, "deterministic": true, "force_col_wise": true},
+  "random_forest": {"n_estimators": 300, "max_depth": 10, "min_samples_leaf": 30, "max_features": "sqrt"}
+}

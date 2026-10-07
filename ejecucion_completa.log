@@ -1,0 +1,243 @@
+  1 | 202603 | logistica__mes0__interaccion0 | Gini=0.226985 | 0.1s
+  2 | 202603 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.257255 | 0.8s
+  3 | 202603 | catboost__mes0__interaccion0 | Gini=0.260266 | 3.3s
+  4 | 202603 | xgboost__mes0__interaccion0 | Gini=0.240898 | 0.4s
+  5 | 202603 | lightgbm__mes0__interaccion0 | Gini=0.242696 | 0.6s
+  6 | 202603 | random_forest__mes0__interaccion0 | Gini=0.253671 | 2.2s
+  7 | 202603 | logistica__mes0__interaccion1 | Gini=0.219266 | 0.1s
+  8 | 202603 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.248440 | 0.6s
+  9 | 202603 | catboost__mes0__interaccion1 | Gini=0.259803 | 3.3s
+ 10 | 202603 | xgboost__mes0__interaccion1 | Gini=0.227946 | 0.5s
+ 11 | 202603 | lightgbm__mes0__interaccion1 | Gini=0.237044 | 0.5s
+ 12 | 202603 | random_forest__mes0__interaccion1 | Gini=0.256566 | 2.0s
+ 13 | 202603 | logistica__mes1__interaccion0 | Gini=0.226894 | 0.1s
+ 14 | 202603 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.251483 | 0.6s
+ 15 | 202603 | catboost__mes1__interaccion0 | Gini=0.262217 | 3.8s
+ 16 | 202603 | xgboost__mes1__interaccion0 | Gini=0.236348 | 0.5s
+ 17 | 202603 | lightgbm__mes1__interaccion0 | Gini=0.239145 | 0.8s
+ 18 | 202603 | random_forest__mes1__interaccion0 | Gini=0.254220 | 2.2s
+ 19 | 202603 | logistica__mes1__interaccion1 | Gini=0.219471 | 0.1s
+ 20 | 202603 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.239572 | 0.6s
+ 21 | 202603 | catboost__mes1__interaccion1 | Gini=0.254974 | 3.5s
+ 22 | 202603 | xgboost__mes1__interaccion1 | Gini=0.229585 | 0.5s
+ 23 | 202603 | lightgbm__mes1__interaccion1 | Gini=0.229986 | 0.6s
+ 24 | 202603 | random_forest__mes1__interaccion1 | Gini=0.252590 | 2.2s
+ 25 | 202604 | logistica__mes0__interaccion0 | Gini=0.244666 | 0.1s
+ 26 | 202604 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.263794 | 0.9s
+ 27 | 202604 | catboost__mes0__interaccion0 | Gini=0.264688 | 4.4s
+ 28 | 202604 | xgboost__mes0__interaccion0 | Gini=0.259581 | 0.6s
+ 29 | 202604 | lightgbm__mes0__interaccion0 | Gini=0.261893 | 0.8s
+ 30 | 202604 | random_forest__mes0__interaccion0 | Gini=0.257565 | 3.0s
+ 31 | 202604 | logistica__mes0__interaccion1 | Gini=0.244569 | 0.1s
+ 32 | 202604 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.266017 | 0.7s
+ 33 | 202604 | catboost__mes0__interaccion1 | Gini=0.258619 | 4.5s
+ 34 | 202604 | xgboost__mes0__interaccion1 | Gini=0.255378 | 0.6s
+ 35 | 202604 | lightgbm__mes0__interaccion1 | Gini=0.265232 | 0.8s
+ 36 | 202604 | random_forest__mes0__interaccion1 | Gini=0.256136 | 3.2s
+ 37 | 202604 | logistica__mes1__interaccion0 | Gini=0.244658 | 0.1s
+ 38 | 202604 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.265188 | 0.7s
+ 39 | 202604 | catboost__mes1__interaccion0 | Gini=0.256316 | 4.5s
+ 40 | 202604 | xgboost__mes1__interaccion0 | Gini=0.258629 | 0.6s
+ 41 | 202604 | lightgbm__mes1__interaccion0 | Gini=0.263046 | 0.8s
+ 42 | 202604 | random_forest__mes1__interaccion0 | Gini=0.256398 | 3.0s
+ 43 | 202604 | logistica__mes1__interaccion1 | Gini=0.244556 | 0.2s
+ 44 | 202604 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.267689 | 0.9s
+ 45 | 202604 | catboost__mes1__interaccion1 | Gini=0.252497 | 4.9s
+ 46 | 202604 | xgboost__mes1__interaccion1 | Gini=0.257993 | 0.6s
+ 47 | 202604 | lightgbm__mes1__interaccion1 | Gini=0.263849 | 0.8s
+ 48 | 202604 | random_forest__mes1__interaccion1 | Gini=0.263434 | 2.8s
+ 49 | 202605 | logistica__mes0__interaccion0 | Gini=0.249144 | 0.1s
+ 50 | 202605 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.270993 | 0.9s
+ 51 | 202605 | catboost__mes0__interaccion0 | Gini=0.268456 | 5.5s
+ 52 | 202605 | xgboost__mes0__interaccion0 | Gini=0.271762 | 0.9s
+ 53 | 202605 | lightgbm__mes0__interaccion0 | Gini=0.271717 | 0.8s
+ 54 | 202605 | random_forest__mes0__interaccion0 | Gini=0.262592 | 3.4s
+ 55 | 202605 | logistica__mes0__interaccion1 | Gini=0.249530 | 0.1s
+ 56 | 202605 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.271732 | 0.9s
+ 57 | 202605 | catboost__mes0__interaccion1 | Gini=0.272440 | 5.5s
+ 58 | 202605 | xgboost__mes0__interaccion1 | Gini=0.269834 | 0.8s
+ 59 | 202605 | lightgbm__mes0__interaccion1 | Gini=0.276152 | 0.9s
+ 60 | 202605 | random_forest__mes0__interaccion1 | Gini=0.267643 | 4.0s
+ 61 | 202605 | logistica__mes1__interaccion0 | Gini=0.249156 | 0.1s
+ 62 | 202605 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.268953 | 0.9s
+ 63 | 202605 | catboost__mes1__interaccion0 | Gini=0.272709 | 5.6s
+ 64 | 202605 | xgboost__mes1__interaccion0 | Gini=0.271406 | 0.8s
+ 65 | 202605 | lightgbm__mes1__interaccion0 | Gini=0.268957 | 0.8s
+ 66 | 202605 | random_forest__mes1__interaccion0 | Gini=0.262232 | 3.6s
+ 67 | 202605 | logistica__mes1__interaccion1 | Gini=0.249559 | 0.1s
+ 68 | 202605 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.276013 | 1.0s
+ 69 | 202605 | catboost__mes1__interaccion1 | Gini=0.272171 | 5.4s
+ 70 | 202605 | xgboost__mes1__interaccion1 | Gini=0.275078 | 0.8s
+ 71 | 202605 | lightgbm__mes1__interaccion1 | Gini=0.275890 | 0.9s
+ 72 | 202605 | random_forest__mes1__interaccion1 | Gini=0.269841 | 4.1s
+ 73 | 202606 | logistica__mes0__interaccion0 | Gini=0.218536 | 0.2s
+ 74 | 202606 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.248862 | 1.1s
+ 75 | 202606 | catboost__mes0__interaccion0 | Gini=0.245042 | 6.2s
+ 76 | 202606 | xgboost__mes0__interaccion0 | Gini=0.237962 | 0.9s
+ 77 | 202606 | lightgbm__mes0__interaccion0 | Gini=0.234290 | 1.2s
+ 78 | 202606 | random_forest__mes0__interaccion0 | Gini=0.235817 | 4.9s
+ 79 | 202606 | logistica__mes0__interaccion1 | Gini=0.218044 | 0.1s
+ 80 | 202606 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.245842 | 1.1s
+ 81 | 202606 | catboost__mes0__interaccion1 | Gini=0.239096 | 7.2s
+ 82 | 202606 | xgboost__mes0__interaccion1 | Gini=0.236919 | 0.9s
+ 83 | 202606 | lightgbm__mes0__interaccion1 | Gini=0.232500 | 1.1s
+ 84 | 202606 | random_forest__mes0__interaccion1 | Gini=0.236384 | 5.0s
+ 85 | 202606 | logistica__mes1__interaccion0 | Gini=0.218533 | 0.1s
+ 86 | 202606 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.248039 | 1.2s
+ 87 | 202606 | catboost__mes1__interaccion0 | Gini=0.242410 | 6.2s
+ 88 | 202606 | xgboost__mes1__interaccion0 | Gini=0.243040 | 0.9s
+ 89 | 202606 | lightgbm__mes1__interaccion0 | Gini=0.244922 | 1.0s
+ 90 | 202606 | random_forest__mes1__interaccion0 | Gini=0.237007 | 5.3s
+ 91 | 202606 | logistica__mes1__interaccion1 | Gini=0.217984 | 0.2s
+ 92 | 202606 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.247785 | 1.5s
+ 93 | 202606 | catboost__mes1__interaccion1 | Gini=0.246569 | 6.5s
+ 94 | 202606 | xgboost__mes1__interaccion1 | Gini=0.239293 | 0.9s
+ 95 | 202606 | lightgbm__mes1__interaccion1 | Gini=0.238982 | 1.0s
+ 96 | 202606 | random_forest__mes1__interaccion1 | Gini=0.235371 | 5.0s
+ 97 | 202607 | logistica__mes0__interaccion0 | Gini=0.247747 | 0.2s
+ 98 | 202607 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.279118 | 1.1s
+ 99 | 202607 | catboost__mes0__interaccion0 | Gini=0.264840 | 7.7s
+100 | 202607 | xgboost__mes0__interaccion0 | Gini=0.262374 | 1.0s
+101 | 202607 | lightgbm__mes0__interaccion0 | Gini=0.269712 | 1.1s
+102 | 202607 | random_forest__mes0__interaccion0 | Gini=0.265841 | 5.7s
+103 | 202607 | logistica__mes0__interaccion1 | Gini=0.247585 | 0.2s
+104 | 202607 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.278204 | 1.2s
+105 | 202607 | catboost__mes0__interaccion1 | Gini=0.266801 | 7.2s
+106 | 202607 | xgboost__mes0__interaccion1 | Gini=0.257905 | 1.2s
+107 | 202607 | lightgbm__mes0__interaccion1 | Gini=0.269394 | 1.3s
+108 | 202607 | random_forest__mes0__interaccion1 | Gini=0.262014 | 5.9s
+109 | 202607 | logistica__mes1__interaccion0 | Gini=0.247696 | 0.2s
+110 | 202607 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.275455 | 1.2s
+111 | 202607 | catboost__mes1__interaccion0 | Gini=0.269649 | 8.0s
+112 | 202607 | xgboost__mes1__interaccion0 | Gini=0.267402 | 1.1s
+113 | 202607 | lightgbm__mes1__interaccion0 | Gini=0.275157 | 1.2s
+114 | 202607 | random_forest__mes1__interaccion0 | Gini=0.266219 | 5.8s
+115 | 202607 | logistica__mes1__interaccion1 | Gini=0.247513 | 0.2s
+116 | 202607 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.276885 | 1.2s
+117 | 202607 | catboost__mes1__interaccion1 | Gini=0.265204 | 6.3s
+118 | 202607 | xgboost__mes1__interaccion1 | Gini=0.269608 | 0.9s
+119 | 202607 | lightgbm__mes1__interaccion1 | Gini=0.278960 | 1.2s
+120 | 202607 | random_forest__mes1__interaccion1 | Gini=0.266098 | 6.0s
+121 | 202608 | logistica__mes0__interaccion0 | Gini=0.248316 | 0.2s
+122 | 202608 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.259672 | 1.4s
+123 | 202608 | catboost__mes0__interaccion0 | Gini=0.270583 | 8.1s
+124 | 202608 | xgboost__mes0__interaccion0 | Gini=0.262482 | 1.0s
+125 | 202608 | lightgbm__mes0__interaccion0 | Gini=0.257042 | 1.2s
+126 | 202608 | random_forest__mes0__interaccion0 | Gini=0.263487 | 6.4s
+127 | 202608 | logistica__mes0__interaccion1 | Gini=0.247973 | 0.2s
+128 | 202608 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.254012 | 1.3s
+129 | 202608 | catboost__mes0__interaccion1 | Gini=0.266659 | 9.1s
+130 | 202608 | xgboost__mes0__interaccion1 | Gini=0.260574 | 1.1s
+131 | 202608 | lightgbm__mes0__interaccion1 | Gini=0.250980 | 1.5s
+132 | 202608 | random_forest__mes0__interaccion1 | Gini=0.253706 | 6.0s
+133 | 202608 | logistica__mes1__interaccion0 | Gini=0.248269 | 0.2s
+134 | 202608 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.258383 | 1.3s
+135 | 202608 | catboost__mes1__interaccion0 | Gini=0.269318 | 8.3s
+136 | 202608 | xgboost__mes1__interaccion0 | Gini=0.259627 | 1.3s
+137 | 202608 | lightgbm__mes1__interaccion0 | Gini=0.262716 | 1.4s
+138 | 202608 | random_forest__mes1__interaccion0 | Gini=0.262228 | 6.2s
+139 | 202608 | logistica__mes1__interaccion1 | Gini=0.247873 | 0.2s
+140 | 202608 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.262421 | 1.3s
+141 | 202608 | catboost__mes1__interaccion1 | Gini=0.261529 | 7.1s
+142 | 202608 | xgboost__mes1__interaccion1 | Gini=0.259044 | 1.2s
+143 | 202608 | lightgbm__mes1__interaccion1 | Gini=0.251038 | 1.4s
+144 | 202608 | random_forest__mes1__interaccion1 | Gini=0.253237 | 6.0s
+145 | 202609 | logistica__mes0__interaccion0 | Gini=0.234408 | 0.2s
+146 | 202609 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.246348 | 1.4s
+147 | 202609 | catboost__mes0__interaccion0 | Gini=0.245534 | 8.6s
+148 | 202609 | xgboost__mes0__interaccion0 | Gini=0.242222 | 1.1s
+149 | 202609 | lightgbm__mes0__interaccion0 | Gini=0.240140 | 1.3s
+150 | 202609 | random_forest__mes0__interaccion0 | Gini=0.243831 | 7.5s
+151 | 202609 | logistica__mes0__interaccion1 | Gini=0.234507 | 0.2s
+152 | 202609 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.244376 | 1.5s
+153 | 202609 | catboost__mes0__interaccion1 | Gini=0.244274 | 9.2s
+154 | 202609 | xgboost__mes0__interaccion1 | Gini=0.239762 | 1.1s
+155 | 202609 | lightgbm__mes0__interaccion1 | Gini=0.246054 | 1.4s
+156 | 202609 | random_forest__mes0__interaccion1 | Gini=0.242356 | 7.8s
+157 | 202609 | logistica__mes1__interaccion0 | Gini=0.234412 | 0.2s
+158 | 202609 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.244128 | 1.5s
+159 | 202609 | catboost__mes1__interaccion0 | Gini=0.245759 | 10.4s
+160 | 202609 | xgboost__mes1__interaccion0 | Gini=0.240199 | 1.7s
+161 | 202609 | lightgbm__mes1__interaccion0 | Gini=0.243409 | 2.2s
+162 | 202609 | random_forest__mes1__interaccion0 | Gini=0.238512 | 7.6s
+163 | 202609 | logistica__mes1__interaccion1 | Gini=0.234539 | 0.2s
+164 | 202609 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.243570 | 1.4s
+165 | 202609 | catboost__mes1__interaccion1 | Gini=0.245512 | 9.6s
+166 | 202609 | xgboost__mes1__interaccion1 | Gini=0.244254 | 1.4s
+167 | 202609 | lightgbm__mes1__interaccion1 | Gini=0.246998 | 1.6s
+168 | 202609 | random_forest__mes1__interaccion1 | Gini=0.239485 | 10.4s
+169 | 202610 | logistica__mes0__interaccion0 | Gini=0.239161 | 0.3s
+170 | 202610 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.260873 | 1.7s
+171 | 202610 | catboost__mes0__interaccion0 | Gini=0.265284 | 8.5s
+172 | 202610 | xgboost__mes0__interaccion0 | Gini=0.257117 | 1.3s
+173 | 202610 | lightgbm__mes0__interaccion0 | Gini=0.252631 | 1.5s
+174 | 202610 | random_forest__mes0__interaccion0 | Gini=0.254421 | 8.3s
+175 | 202610 | logistica__mes0__interaccion1 | Gini=0.239502 | 0.3s
+176 | 202610 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.263778 | 1.7s
+177 | 202610 | catboost__mes0__interaccion1 | Gini=0.267005 | 10.9s
+178 | 202610 | xgboost__mes0__interaccion1 | Gini=0.262024 | 1.3s
+179 | 202610 | lightgbm__mes0__interaccion1 | Gini=0.253944 | 1.5s
+180 | 202610 | random_forest__mes0__interaccion1 | Gini=0.260780 | 8.8s
+181 | 202610 | logistica__mes1__interaccion0 | Gini=0.239134 | 0.3s
+182 | 202610 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.266150 | 1.7s
+183 | 202610 | catboost__mes1__interaccion0 | Gini=0.264508 | 10.4s
+184 | 202610 | xgboost__mes1__interaccion0 | Gini=0.265459 | 1.3s
+185 | 202610 | lightgbm__mes1__interaccion0 | Gini=0.260182 | 1.5s
+186 | 202610 | random_forest__mes1__interaccion0 | Gini=0.254009 | 8.6s
+187 | 202610 | logistica__mes1__interaccion1 | Gini=0.239542 | 0.3s
+188 | 202610 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.267770 | 1.7s
+189 | 202610 | catboost__mes1__interaccion1 | Gini=0.267699 | 12.6s
+190 | 202610 | xgboost__mes1__interaccion1 | Gini=0.265202 | 1.7s
+191 | 202610 | lightgbm__mes1__interaccion1 | Gini=0.266108 | 1.7s
+192 | 202610 | random_forest__mes1__interaccion1 | Gini=0.257871 | 8.9s
+193 | 202611 | logistica__mes0__interaccion0 | Gini=0.202240 | 0.3s
+194 | 202611 | hist_gradient_boosting__mes0__interaccion0 | Gini=0.229575 | 2.0s
+195 | 202611 | catboost__mes0__interaccion0 | Gini=0.239219 | 16.3s
+196 | 202611 | xgboost__mes0__interaccion0 | Gini=0.232470 | 2.3s
+197 | 202611 | lightgbm__mes0__interaccion0 | Gini=0.224930 | 3.3s
+198 | 202611 | random_forest__mes0__interaccion0 | Gini=0.224939 | 10.5s
+199 | 202611 | logistica__mes0__interaccion1 | Gini=0.202171 | 0.3s
+200 | 202611 | hist_gradient_boosting__mes0__interaccion1 | Gini=0.232080 | 1.9s
+201 | 202611 | catboost__mes0__interaccion1 | Gini=0.238452 | 11.6s
+202 | 202611 | xgboost__mes0__interaccion1 | Gini=0.231066 | 1.6s
+203 | 202611 | lightgbm__mes0__interaccion1 | Gini=0.228704 | 1.6s
+204 | 202611 | random_forest__mes0__interaccion1 | Gini=0.227738 | 11.1s
+205 | 202611 | logistica__mes1__interaccion0 | Gini=0.202258 | 0.3s
+206 | 202611 | hist_gradient_boosting__mes1__interaccion0 | Gini=0.232308 | 3.8s
+207 | 202611 | catboost__mes1__interaccion0 | Gini=0.238266 | 11.8s
+208 | 202611 | xgboost__mes1__interaccion0 | Gini=0.227033 | 1.7s
+209 | 202611 | lightgbm__mes1__interaccion0 | Gini=0.220313 | 1.8s
+210 | 202611 | random_forest__mes1__interaccion0 | Gini=0.225014 | 9.7s
+211 | 202611 | logistica__mes1__interaccion1 | Gini=0.202157 | 0.3s
+212 | 202611 | hist_gradient_boosting__mes1__interaccion1 | Gini=0.233891 | 2.0s
+213 | 202611 | catboost__mes1__interaccion1 | Gini=0.236664 | 10.5s
+214 | 202611 | xgboost__mes1__interaccion1 | Gini=0.235162 | 1.8s
+215 | 202611 | lightgbm__mes1__interaccion1 | Gini=0.225375 | 2.0s
+216 | 202611 | random_forest__mes1__interaccion1 | Gini=0.225168 | 11.2s
+
+Comparación COMPLETA. Ganador de estas configuraciones: catboost__mes0__interaccion0
+                modelo  usar_mes  usar_interaccion  gini_promedio  gini_ultimo_mes
+              catboost     False             False       0.258212         0.239219
+              catboost      True             False       0.257906         0.238266
+hist_gradient_boosting     False             False       0.257388         0.229575
+hist_gradient_boosting      True              True       0.257288         0.233891
+              catboost     False              True       0.257017         0.238452
+hist_gradient_boosting      True             False       0.256676         0.232308
+hist_gradient_boosting     False              True       0.256053         0.232080
+              catboost      True              True       0.255869         0.236664
+              lightgbm      True             False       0.253094         0.220313
+              lightgbm      True              True       0.253021         0.225375
+               xgboost      True              True       0.252802         0.235162
+               xgboost      True             False       0.252127         0.227033
+               xgboost     False             False       0.251874         0.232470
+         random_forest     False              True       0.251480         0.227738
+         random_forest      True              True       0.251455         0.225168
+         random_forest     False             False       0.251352         0.224939
+              lightgbm     False              True       0.251112         0.228704
+         random_forest      True             False       0.250649         0.225014
+              lightgbm     False             False       0.250561         0.224930
+               xgboost     False              True       0.249045         0.231066
+             logistica     False             False       0.234578         0.202240
+             logistica      True             False       0.234557         0.202258
+             logistica      True              True       0.233688         0.202157
+             logistica     False              True       0.233683         0.202171
